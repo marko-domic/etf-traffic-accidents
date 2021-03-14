@@ -10,6 +10,11 @@ Using different machine learning algorithms, the aim is to compare the results o
 suitable one that gives the best results. After that, using the chosen algorithm, it is necessary to predict the
 locations in the city where a traffic accident would occur at a certain time and under certain weather conditions.
 
+## Final thesis
+
+Final report for this project can be found on this [link](thesis/Analiza i predikcija saobraćajnih nesreća.pdf). 
+It is written in Serbian.
+
 ## Processing description
 
 The inputs for machine learning are located inside the CSV file, with columns such as the coordinates of the location of
