@@ -12,7 +12,7 @@ locations in the city where a traffic accident would occur at a certain time and
 
 ## Final thesis
 
-Final report for this project can be found on this [link](thesis/Analiza i predikcija saobraćajnih nesreća.pdf). 
+Final report for this project can be found on this [link](thesis/analysis_and_prediction_of_traffic_accidents.pdf). 
 It is written in Serbian.
 
 ## Processing description
